@@ -37,3 +37,5 @@ Only final system behavior was available.
 ## 4. 결과
 - 기능 검증 범위 안정화
 - 검증 과정에서의 해석 차이 감소
+
+https://github.com/roistory/RSPA_Test-Case_Portfolio
